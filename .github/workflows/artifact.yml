@@ -7,7 +7,7 @@ on:
      branches:
          - main
          - features
-   pull_request:
+  pull_request:
       branches:
           - main
           - features
